@@ -1,7 +1,7 @@
 ## neon-reports
 
 * Рапид-Д
-  * [24 ноября 2025](reports/rapid_d/24_11_2025.md)
+  * [25 ноября 2025](reports/rapid_d/25_11_2025.html)
   * [21 ноября 2025](reports/rapid_d/21_11_2025.md)
   * [06 сентября 2025](reports/rapid_d/06_09_2025.md)
 

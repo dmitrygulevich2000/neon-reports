@@ -1,3 +1,9 @@
 title: neon-reports
 theme: jekyll-theme-primer
 
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
