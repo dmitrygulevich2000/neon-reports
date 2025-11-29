@@ -5,12 +5,31 @@
 
 .columns-report {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(2, auto);
   gap: 1rem;
+}
+
+.columns-report>div {
+  overflow: auto;
 }
 
 .container-lg {
   max-width: 1400px;
+  min-width: min(1012px, 100%);
+}
+
+.markdown-body table {
+  border-collapse: separate;
+  white-space: nowrap;
+}
+
+.sticky-column th:first-child, .sticky-column td:first-child {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 0;
+  background-color: inherit;
+  z-index: 1;
+  border-collapse: separate;
 }
 
 @import "sortable";
