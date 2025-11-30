@@ -1,5 +1,8 @@
 ## neon-reports
 
+* Неон-Д
+  * [30 ноября 2025](reports/neon_d/30_11_2025.html)
+
 * Булат-Д
   * [29 ноября 2025](reports/bulat_d/29_11_2025.html)
   * [11 сентября 2025](reports/bulat_d/11_09_2025.md)

@@ -1,4 +1,4 @@
-// https://github.com/tofsjonas/sortable
+// sortable.min.js from https://github.com/tofsjonas/sortable
 document.addEventListener("click", function(e) {
   try {
     var alt_sort_1 = e.shiftKey || e.altKey, element = e.target.closest("th"), tr = element.parentNode, thead = tr.parentNode, table_1 = thead.parentNode;

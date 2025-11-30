@@ -1,0 +1,21 @@
+.sortable thead th {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: inherit;
+    border-collapse: separate;
+}
+
+.sticky-column thead th:first-child {
+    left: 0;
+    z-index: 2;
+}
+
+.sticky-column td:first-child {
+    position: -webkit-sticky;
+    position: sticky;
+    left: 0;
+    background-color: inherit;
+    z-index: 1;
+}

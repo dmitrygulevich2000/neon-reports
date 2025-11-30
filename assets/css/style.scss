@@ -21,15 +21,9 @@
 .markdown-body table {
   border-collapse: separate;
   white-space: nowrap;
-}
-
-.sticky-column th:first-child, .sticky-column td:first-child {
-  position: -webkit-sticky;
-  position: sticky;
-  left: 0;
-  background-color: inherit;
-  z-index: 1;
-  border-collapse: separate;
+  max-height: 720px;
+  max-width: fit-content;
 }
 
 @import "sortable";
+@import "sticky-row-col";
