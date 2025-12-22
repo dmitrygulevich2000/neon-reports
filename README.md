@@ -1,14 +1,27 @@
 ## neon-reports
 
-* Неон-Д
-  * [30 ноября 2025](reports/neon_d/30_11_2025.html)
+* Тандер-Д
+  * [21 декабря 2025](reports/tander_d/21_12_2025.html)
+  * [30 сентября 2025](reports/tander_d/30_09_2025.md)
+
+* Пираты-Д
+  * [14 декабря 2025](reports/piraty_d/14_12_2025.html)
+  * [27 сентября 2025](reports/piraty_d/27_09_2025.md)
+
+* Шереметьево Без-Д
+  * [07 декабря 2025](reports/sheremetevo_bez_d/07_12_2025.html)
+  * [12 июня 2025](reports/sheremetevo_bez_d/12_06_2025.md)
+  * [06 июня 2025](reports/sheremetevo_bez_d/06_06_2025.md)
+
+* МБ-Д
+  * [06 декабря 2025](reports/mb_d/06_12_2025.html)
+  * [17 сентября 2025](reports/mb_d/17_09_2025.md)
 
 * Булат-Д
   * [29 ноября 2025](reports/bulat_d/29_11_2025.html)
   * [11 сентября 2025](reports/bulat_d/11_09_2025.md)
 
 * Рапид-Д
-  * [28 ноября 2025](reports/rapid_d/28_11_2025.html)
   * [21 ноября 2025](reports/rapid_d/21_11_2025.md)
   * [06 сентября 2025](reports/rapid_d/06_09_2025.md)
 
@@ -23,17 +36,4 @@
 * Альтернова-Д
   * [02 ноября 2025](reports/alternova_d/02_11_2025.md)
   * [13 августа 2025](reports/alternova_d/13_08_2025.md)
-
-* Тандер-Д
-  * [30 сентября 2025](reports/tander_d/30_09_2025.md)
-
-* Пираты-Д
-  * [27 сентября 2025](reports/piraty_d/27_09_2025.md)
-
-* МБ-Д
-  * [17 сентября 2025](reports/mb_d/17_09_2025.md)
-
-* Шереметьево Без-Д
-  * [12 июня 2025](reports/sheremetevo_bez_d/12_06_2025.md)
-  * [06 июня 2025](reports/sheremetevo_bez_d/06_06_2025.md)
 
