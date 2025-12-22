@@ -1,5 +1,11 @@
 ## neon-reports
 
+* Неон-Д
+  * [22 декабря 2025](reports/neon_d/22_12_2025.html)
+
+* Неон
+  * [22 декабря 2025](reports/neon/22_12_2025.html)
+
 * Тандер-Д
   * [21 декабря 2025](reports/tander_d/21_12_2025.html)
   * [30 сентября 2025](reports/tander_d/30_09_2025.md)
