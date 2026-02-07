@@ -1,0 +1,27 @@
+---
+---
+
+.columns-report {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  gap: 1rem;
+}
+
+.columns-report>div {
+  overflow: auto;
+}
+
+.container-lg {
+  max-width: 1400px;
+  min-width: min(1012px, 100%);
+}
+
+.markdown-body table {
+  border-collapse: separate;
+  white-space: nowrap;
+  max-height: 720px;
+  max-width: fit-content;
+}
+
+@import "sortable";
+@import "sticky-row-col";
